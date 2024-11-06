@@ -1,7 +1,4 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>openresty</center>
-</body>
-</html>
+{
+  "error": "blob (key \"QmeqDGcTDjn3a3LhqZKyTCJpodrBCbxvADhbHN5EAnLy62/original.jpg\") (code=Unknown): AccessDenied: Cannot download file, download bandwidth or transaction (Class B) cap exceeded. See the Caps \u0026 Alerts page to increase your cap.\n\tstatus code: 403, request id: bbf8ae9917a8cf8d, host id: aMUo3mmVUYlti4WJWNXAwnWXtM/Qw0jWz",
+  "message": "Internal Server Error"
+}
