@@ -1,14 +1,29 @@
-<HTML>
-<HEAD>
-<TITLE>Error</TITLE>
-</HEAD>
 
-<BODY BGCOLOR="white" FGCOLOR="black">
-<H1>Error</H1>
-<HR>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, Arial, sans-serif;
+            font-size: 15px;
+            font-weight: 200;
+            line-height: 20px;
+            color: #4c4c4c;
+            text-align: center;
+        }
 
-<FONT FACE="Helvetica,Arial"><B>
-Description: Could not process this request.
-</B></FONT>
-<HR>
-</BODY>
+        .section {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+<div class="section">
+    <h1>&#63743;</h1>
+
+    <h3>Bad Gateway</h3>
+    <p>Correlation Key: VJDEUBM6KWOXQH2K6JAACZWVC4</p>
+</div>
+</body>
+</html>
+
